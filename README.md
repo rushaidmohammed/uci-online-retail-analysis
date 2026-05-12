@@ -86,11 +86,11 @@ completed and cancelled orders, and lost revenue KPI.
 
 ![Executive Summary](UCI-Online-Retail-Analysis/screenshots/page1_executive_summary.png)
 
-![Product Analysis](screenshots/page2_product_analysis.png)
+![Product Analysis](UCI-Online-Retail-Analysis/screenshots/page2_product_analysis.png)
 
-![Customer Segmentation](screenshots/page3_customer_segmentation.png)
+![Customer Segmentation](UCI-Online-Retail-Analysis/screenshots/page3_customer_segmentation.png)
 
-![Cancellation Analysis](screenshots/page4_cancellation_analysis.png)
+![Cancellation Analysis](UCI-Online-Retail-Analysis/screenshots/page4_cancellation_analysis.png)
 
 ---
 
