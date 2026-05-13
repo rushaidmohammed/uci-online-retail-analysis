@@ -25,7 +25,7 @@ The goal was to answer four core business questions using real-world data, with 
 
 **Source:** UCI Machine Learning Repository — Online Retail Dataset  
 **Link:** https://archive.ics.uci.edu/ml/datasets/online+retail   
-**Note:** Raw data file not included due to size. Download directly from the UCI link above.   
+(Raw data file not included due to size. Download directly from the UCI link above)   
 **Size:** 541,909 transactions | 8 columns  
 **Scope:** UK-based e-commerce | December 2010 – December 2011
 
