@@ -71,7 +71,7 @@ completed and cancelled orders, and lost revenue KPI.
   likely driven by Christmas wholesale ordering cycles
 - **Cancellation rate:** 16.47% overall, but the monthly trend shows 
   consistent improvement through late 2011
-- **Revenue fragmentation:** Revenue is spread across ~4,000 SKUs. 
+- **Revenue fragmentation:** Revenue is spread across ~3,700 SKUs. 
   The top product accounts for just 1.6% of total revenue — 
   a classic long tail distribution
 - **Customer segmentation:** Potential Loyalists are the largest segment (27.73%) 
